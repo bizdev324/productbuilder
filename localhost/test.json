@@ -1,0 +1,62 @@
+{
+    "children": [
+        {
+            "type": "_116",
+            "x": 0,
+            "y": 0,
+            "z": 0,
+            "rx": 0,
+            "ry": 0,
+            "rz": 0,
+            "shrunk": 100,
+            "children": [
+                {
+                    "type": "_85",
+                    "x": 30.328,
+                    "y": 0,
+                    "z": 0,
+                    "rx": 0,
+                    "ry": 0,
+                    "rz": 0,
+                    "shrunk": 100,
+                    "finish": {
+                        "mat1": "_37",
+                        "mat2": "_363",
+                        "mat3": "_37"
+                    }
+                },
+                []
+            ]
+        }
+    ],
+    "model": {
+        "_85": {
+            "url": "https:\/\/www.bocklighting.com\/system\/files\/models3d\/AG14%20%281%29.glb"
+        },
+        "_116": {
+            "url": "https:\/\/www.bocklighting.com\/system\/files\/models3d\/GN30Ce%20%281%29.glb"
+        }
+    },
+    "finish": {
+        "_37": {
+            "url": "https:\/\/www.bocklighting.com\/system\/files\/models3d\/G2---Red_0.png",
+            "normalUrl": "https:\/\/www.bocklighting.com\/modules\/custom\/productbuilder\/files3d\/normal---plain.png"
+        },
+        "_363": {
+            "url": "https:\/\/www.bocklighting.com\/system\/files\/models3d\/G24---Orange.png",
+            "normalUrl": "https:\/\/www.bocklighting.com\/modules\/custom\/productbuilder\/files3d\/normal---plain.png"
+        }
+    },
+    "version": "0.1",
+    "settings": {
+        "view": "perspective",
+        "dimensions": 1,
+        "cartoon": false,
+        "bgcolor": "#ffffff",
+        "vignette": {
+            "color1": "#e6e6e6",
+            "color2": "#555",
+            "scale": 2
+        }
+    }
+}
