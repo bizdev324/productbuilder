@@ -24,7 +24,7 @@
     "glslify": "^7.0.0",
     "glslify-loader": "^2.0.0",
     "ify-loader": "^1.1.0",
-    "jquery": "^3.4.1",
+    "jquery": "^3.5.0",
     "jszip": "^3.2.2",
     "resize-observer": "^1.0.0",
     "three": "^0.107.0",
