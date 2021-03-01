@@ -27,7 +27,7 @@
     "jquery": "^3.4.1",
     "jszip": "^3.2.2",
     "resize-observer": "^1.0.0",
-    "three": "^0.107.0",
+    "three": "^0.125.0",
     "three-js-csg": "^72.0.0",
     "three-vignette-background": "^1.0.3",
     "three-vignette-background-updated": "^1.0.0",
